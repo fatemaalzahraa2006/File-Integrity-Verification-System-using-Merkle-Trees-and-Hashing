@@ -1,0 +1,2 @@
+# File-Integrity-Verification-System-using-Merkle-Trees-and-Hashing
+A secure File Integrity Verification System based on Merkle Tree architecture and hashing to detect file tampering and ensure data authenticity. The system reads files, computes hashes , and constructs a Merkle Tree by hashing paired nodes until a single Merkle root is produced representing the entire file and is stored for later verification.
